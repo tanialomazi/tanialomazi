@@ -1,10 +1,11 @@
 # Tânia Lomazi
 ## <br> Oi! 🙋 | Hi! 🙋
-Sou engenheira formada pela UFABC 🤓. <br>Há cerca de 5 anos me interessei por VBA (Excel) e desde então não parei de aprender novas linguagens e formas de me comunicar. 
-> I'm engineer by UFABC.🤓 <br> Around 5 years ago I got interested in VBA (Excel) and since then I didn't stop to learn new languages and ways to communicate.
+Sou engenheira formada pela UFABC. 🤓<br>Há cerca de 5 anos me interessei por VBA (Excel) e desde então não parei de aprender novas linguagens e formas de me comunicar. 
+> I'm a graduated engineer by UFABC. 🤓 <br> Around 5 years ago I got interested in VBA (Excel) and since then I haven't stopped learning new languages and ways to communicate.
 
 ## O que ando fazendo | What I'm doing
 Estudando:
+>Studying:
 <br><br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/sql-file-format-symbol.svg" width = 3% height = 3%> SQL
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/business.svg" width = 3% height = 3%>    Data Science
 
