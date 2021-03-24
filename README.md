@@ -7,16 +7,15 @@ Sou engenheira formada pela UFABC. 🤓<br>Há cerca de 5 anos me interessei por
 Estudando:
 >Studying:
 
-<br><br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/sql-file-format-symbol.svg" width = 3% height = 3%> SQL
-<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/business.svg" width = 3% height = 3%>    Data Science
+<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/a5aef4e4b5e7342d2e8182b86f48ed7259ab9989/Icons/html-5.svg" width = 3% height = 3%> HTML5
+<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/a5aef4e4b5e7342d2e8182b86f48ed7259ab9989/Icons/css-file.svg" width = 3% height = 3%> CSS3
+<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/javascript.png" width = 3% height = 3%> JavaScript
 
 ## No que eu posso te ajudar | How can I help you
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/excel.svg" width = 3% height = 3%> Excel
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/microsoft-access.svg" width = 3% height = 3%> Access
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/data-scientist.svg" width = 3% height = 3%> Power BI
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/sql-file-format-symbol.svg" width = 3% height = 3%> SQL
-<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/a5aef4e4b5e7342d2e8182b86f48ed7259ab9989/Icons/html-5.svg" width = 3% height = 3%> HTML5
-<br><img src = "https://github.com/tanialomazi/tanialomazi/blob/a5aef4e4b5e7342d2e8182b86f48ed7259ab9989/Icons/css-file.svg" width = 3% height = 3%> CSS3
 
 ## Onde me encontrar | Where to find me
 <br><img src = "https://github.com/tanialomazi/tanialomazi/blob/master/Icons/Whatsapp_37229.png" width = 3% height = 3%> +55 (11) 94658-3442
