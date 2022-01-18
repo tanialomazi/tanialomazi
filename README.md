@@ -1,4 +1,4 @@
-## Tânia Lomazi, Hi! 🙋
+## Hi! 🙋
 <br>[![Linkedin Badge](https://img.shields.io/badge/-TâniaLomazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanialomazi/)](https://www.linkedin.com/in/tanialomazi/)
 [![Gmail Badge](https://img.shields.io/badge/-tania.lomazi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tania.lomazi@gmail.com)](mailto:tania.lomazi@gmail.com)
 
